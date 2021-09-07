@@ -3,5 +3,3 @@ hola soy samuel
 tengo 26
 
 y estoy aprendiendo git
-
-nuevo cambio 
