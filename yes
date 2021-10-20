@@ -1,0 +1,47 @@
+[33mcommit 17c17588d1d464c277f917b4da2f7bb274c55adb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Samuel Martinez <sma.2904@gmail.com>
+Date:   Wed Oct 20 10:01:16 2021 -0500
+
+    seguiendo el curso de GIT
+
+ blogpost.html   | 13 [32m+++++++++++++[m
+ css/estilos.css |  3 [32m+++[m
+ historia.txt    |  4 [32m+++[m[31m-[m
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+
+[33mcommit a1a9b342d7693dc3407b16052e452ada75f25d57[m
+Author: Samuel Martinez <sma.2904@gmail.com>
+Date:   Tue Sep 7 12:16:23 2021 -0500
+
+    sin modificacion al html
+
+ historia.txt | 4 [32m+[m[31m---[m
+ index.html   | 6 [32m+++++[m[31m-[m
+ 2 files changed, 6 insertions(+), 4 deletions(-)
+
+[33mcommit 0ccc2f9a8f7a7e8acf5aa358a9aeea0f2f301060[m
+Author: Samuel Martinez <sma.2904@gmail.com>
+Date:   Tue Sep 7 09:34:47 2021 -0500
+
+    agregue un archivo html
+
+ index.html | 12 [32m++++++++++++[m
+ 1 file changed, 12 insertions(+)
+
+[33mcommit 019d459a990a6fac4e9f581a21a0e6f28b96a03d[m
+Author: Samuel Martinez <sma.2904@gmail.com>
+Date:   Tue Sep 7 09:28:28 2021 -0500
+
+    realice un commit nuevo para saber que pasa con reset hard
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit bd338d8321f4f57c0fa6d8109f5cc5a41ac16a4d[m
+Author: Samuel Martinez <sma.2904@gmail.com>
+Date:   Sun Sep 5 19:24:28 2021 -0500
+
+    este es el primer commit
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
